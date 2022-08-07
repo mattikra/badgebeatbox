@@ -1,0 +1,105 @@
+#pragma once
+
+#define A1 0.0f
+#define B1 1.0f/12.0f
+#define H1 2.0f/12.0f
+#define C1 3.0f/12.0f
+#define CIS1 4.0f/12.0f
+#define D1 5.0f/12.0f
+#define DIS1 6.0f/12.0f
+#define E1 7.0f/12.0f
+#define F1 8.0f/12.0f
+#define FIS1 9.0f/12.0f
+#define G1 10.0f/12.0f
+#define GIS1 11.0f/12.0f
+
+#define A2 (A1+1)
+#define B2 (B1+1)
+#define H2 (H1+1)
+#define C2 (C1+1)
+#define CIS2 (CIS1+1)
+#define D2 (D1+1)
+#define DIS2 (DIS1+1)
+#define E2 (E1+1)
+#define F2 (F1+1)
+#define FIS2 (FIS1+1)
+#define G2 (G1+1)
+#define GIS2 (GIS1+1)
+
+#define A2 (A1+1)
+#define B2 (B1+1)
+#define H2 (H1+1)
+#define C2 (C1+1)
+#define CIS2 (CIS1+1)
+#define D2 (D1+1)
+#define DIS2 (DIS1+1)
+#define E2 (E1+1)
+#define F2 (F1+1)
+#define FIS2 (FIS1+1)
+#define G2 (G1+1)
+#define GIS2 (GIS1+1)
+
+#define A3 (A1+2)
+#define B3 (B1+2)
+#define H3 (H1+2)
+#define C3 (C1+2)
+#define CIS3 (CIS1+2)
+#define D3 (D1+2)
+#define DIS3 (DIS1+2)
+#define E3 (E1+2)
+#define F3 (F1+2)
+#define FIS3 (FIS1+2)
+#define G3 (G1+2)
+#define GIS3 (GIS1+2)
+
+#define A4 (A1+3)
+#define B4 (B1+3)
+#define H4 (H1+3)
+#define C4 (C1+3)
+#define CIS4 (CIS1+3)
+#define D4 (D1+3)
+#define DIS4 (DIS1+3)
+#define E4 (E1+3)
+#define F4 (F1+3)
+#define FIS4 (FIS1+3)
+#define G4 (G1+3)
+#define GIS4 (GIS1+3)
+
+#define A5 (A1+4)
+#define B5 (B1+4)
+#define H5 (H1+4)
+#define C5 (C1+4)
+#define CIS5 (CIS1+4)
+#define D5 (D1+4)
+#define DIS5 (DIS1+4)
+#define E5 (E1+4)
+#define F5 (F1+4)
+#define FIS5 (FIS1+4)
+#define G5 (G1+4)
+#define GIS5 (GIS1+4)
+
+#define A6 (A1+5)
+#define B6 (B1+5)
+#define H6 (H1+5)
+#define C6 (C1+5)
+#define CIS6 (CIS1+5)
+#define D6 (D1+5)
+#define DIS6 (DIS1+5)
+#define E6 (E1+5)
+#define F6 (F1+5)
+#define FIS6 (FIS1+5)
+#define G6 (G1+5)
+#define GIS6 (GIS1+5)
+
+#define A7 (A1+6)
+#define B7 (B1+6)
+#define H7 (H1+6)
+#define C7 (C1+6)
+#define CIS7 (CIS1+6)
+#define D7 (D1+6)
+#define DIS7 (DIS1+6)
+#define E7 (E1+6)
+#define F7 (F1+6)
+#define FIS7 (FIS1+6)
+#define G7 (G1+6)
+#define GIS7 (GIS1+6)

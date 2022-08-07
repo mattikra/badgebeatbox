@@ -5,7 +5,16 @@
 
 idf_component_register(
     SRCS
-        "main.c"
+      "main.cpp"
+      "audio.cpp"
+      "update.cpp"
+      "adsr.cpp"
+      "biquad.cpp"
+      "mixer.cpp"
+      "sequencer.cpp"
+      "synth.cpp"
+      "voice.cpp"
+      "soundnode.cpp"
     INCLUDE_DIRS
         "." "include"
 )
